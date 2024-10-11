@@ -1,0 +1,1 @@
+scores_main and scores_main_reliefTwo combines to make the scores for 70% features.
